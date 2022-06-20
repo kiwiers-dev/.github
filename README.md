@@ -1,2 +1,1 @@
-# .github
-🥝 Config files for Kiwiers org config
+# 🥝 Eat a kiwi; do more cody
